@@ -36,7 +36,7 @@ Ihre HTML-Seite soll Informationen über einen Künstler zur Verfügung stellen.
 
 Die Webseite soll mindestens über drei einzelne Seiten verfügen, zu denen Sie jederzeit navigieren können. Jede Seite soll unterschiedliche Informationen darstellen:
 
-- eine Seite mit Informationen zum Künstler mit einem Link zu dem weiterführendem Wikipedia-Artikel. 
+- eine Seite mit Informationen zum Künstler mit einem Link zu dem weiterführenden Wikipedia-Artikel. 
 - eine Seite mit einer einfachen Bildergalerie, die neben - oder untereinander mindestens zwei Kunstwerke aus dem Repertoire des Künstlers darstellt.
 - eine Seite mit Informationen zur Epoche.
 
@@ -63,7 +63,7 @@ Der Name der Datei ergibt sich aus dem Präfix „SL_WT_SS20“, der Nr. der Stu
 
  
 
-Beispiel: **SL_WT_SS20_2_Max_Mustermann.zip**
+Beispiel: **SL_WT_SS20_1_Max_Mustermann.zip**
 
 [^1]: https://docs.google.com/spreadsheets/d/19QDyny7b0CHnpotKPzwxMIK9_59uH4BZWEmqLupVPhQ/edit?usp=sharing
 [^2]: http://saifmohammad.com/WebPages/wikiartemotions.html

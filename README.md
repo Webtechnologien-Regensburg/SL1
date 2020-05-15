@@ -42,7 +42,7 @@ Die Webseite soll mindestens über drei einzelne Seiten verfügen, zu denen Sie 
 
 Die Informationen zu Ihrem Künstler und den Kunstwerken können Sie über das WikiArtEmotionSet und den weiterführenden Links abrufen, und in Ihre Seite integrieren.
 
-Sie können sich bei der Gestaltung Ihrer Webseite an den Übungsaufgaben in der Vorlesung und Übung  orientieren. Spielen Sie mit verschiedenen Schriftarten für die Überschriften und Texte, um die Seite ansprechend zu gestalten. Verwenden Sie für die einzelnen Seiten semantische Elemente, wie z.B. _header_, _nav_, main und _footer_ (siehe https://www.w3schools.com/html/html5_semantic_elements.asp), um Ihren einzelnen HTML-Dokumenten Struktur zu verleihen. 
+Sie können sich bei der Gestaltung Ihrer Webseite an den Übungsaufgaben in der Vorlesung und Übung  orientieren. Spielen Sie mit verschiedenen Schriftarten für die Überschriften und Texte, um die Seite ansprechend zu gestalten. Verwenden Sie für die einzelnen Seiten semantische Elemente, wie z.B. _header_, _nav_, _main_ und _footer_ (siehe https://www.w3schools.com/html/html5_semantic_elements.asp), um Ihren einzelnen HTML-Dokumenten Struktur zu verleihen. 
 
 Sie finden unter https://homepages.uni-regensburg.de/~kom13409/WTSS2020/Home.html eine kleine HTML Seite, an der Sie sich orientieren können.
 
@@ -83,7 +83,7 @@ Hier finden Sie eine kleine Einführung in CSS[^8].
 Laden Sie Ihre Antworten bis spätestens 31.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 1 und 2: Ein PDF-Dokument mit Ihrer Lösung
-- Aufgabe 3: Das gesamte Projekt (HTML,CSS)
+- Aufgabe 3: Das gesamte Projekt (HTML, CSS)
 
 Der Name der Datei ergibt sich aus dem Präfix „SL_WT_SS20“, der Nr. der Studienleistung, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 

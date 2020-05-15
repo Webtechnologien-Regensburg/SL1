@@ -44,7 +44,7 @@ Die Informationen zu Ihrem Künstler und den Kunstwerken können Sie über das W
 
 Sie können sich bei der Gestaltung Ihrer Webseite an den Übungsaufgaben in der Vorlesung und Übung  orientieren. Spielen Sie mit verschiedenen Schriftarten für die Überschriften und Texte, um die Seite ansprechend zu gestalten. Verwenden Sie für die einzelnen Seiten semantische Elemente, wie z.B. _header_, _nav_, _main_ und _footer_ (siehe https://www.w3schools.com/html/html5_semantic_elements.asp), um Ihren einzelnen HTML-Dokumenten Struktur zu verleihen. 
 
-Sie finden unter https://homepages.uni-regensburg.de/~kom13409/WTSS2020/Home.html eine kleine HTML Seite, von der Sie sich inspirieren lassen können.
+Sie finden unter [https://homepages.uni-regensburg.de/~kom13409/WTSS2020/Home.html] eine kleine HTML Seite, von der Sie sich inspirieren lassen können.
 
 
 

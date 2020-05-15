@@ -37,16 +37,42 @@ Ihre HTML-Seite soll Informationen über einen Künstler zur Verfügung stellen.
 Die Webseite soll mindestens über drei einzelne Seiten verfügen, zu denen Sie jederzeit navigieren können. Jede Seite soll unterschiedliche Informationen darstellen:
 
 - eine Seite mit Informationen zum Künstler mit einem Link zu dem weiterführenden Wikipedia-Artikel. 
-- eine Seite mit einer einfachen Bildergalerie, die neben - oder untereinander mindestens zwei Kunstwerke aus dem Repertoire des Künstlers darstellt.
-- eine Seite mit Informationen zur Epoche.
+- eine Seite mit einer einfachen Bildergalerie, die neben - oder untereinander mindestens zwei Kunstwerke aus dem Repertoire des Künstlers darstellt, und eine kurze Beschreibung zum jeweiligen Kunstwerk beinhaltet.
+- eine Seite mit Informationen zur Epoche (auch hier können Sie mit Bildern arbeiten).
 
 Die Informationen zu Ihrem Künstler und den Kunstwerken können Sie über das WikiArtEmotionSet und den weiterführenden Links abrufen, und in Ihre Seite integrieren.
 
-Sie können sich bei der Gestaltung Ihrer Webseite an den Übungsaufgaben in der Vorlesung und Übung  orientieren. Spielen Sie mit verschiedenen Schriftarten für die Überschriften und Texte, um die Seite ansprechend zu gestalten. Verwenden Sie für die einzelnen Seiten semantische Elemente, wie z.B. _header_, _nav_, _section_ und _footer_ (siehe https://www.w3schools.com/html/html5_semantic_elements.asp), um Ihren einzelnen HTML-Dokumenten Struktur zu verleihen. 
+Sie können sich bei der Gestaltung Ihrer Webseite an den Übungsaufgaben in der Vorlesung und Übung  orientieren. Spielen Sie mit verschiedenen Schriftarten für die Überschriften und Texte, um die Seite ansprechend zu gestalten. Verwenden Sie für die einzelnen Seiten semantische Elemente, wie z.B. _header_, _nav_, main und _footer_ (siehe https://www.w3schools.com/html/html5_semantic_elements.asp), um Ihren einzelnen HTML-Dokumenten Struktur zu verleihen. 
 
-Sie können sich an folgendem Screenshot orientieren und sich von der Struktur der HTML Seite inspirieren lassen.
+Sie finden unter https://homepages.uni-regensburg.de/~kom13409/WTSS2020/Home.html eine kleine HTML Seite, an der Sie sich orientieren können.
 
-![Beispiel für eine einfache HTML - Seite mit einem Header, einer Navigationsbar und dem Hauptinhalt](Home.PNG){ height=10cm }
+
+
+Die folgenden Tutorials sollen Sie bei der Erstellung Ihrer Webseite unterstützen:
+
+
+
+_Seitenstrukturierung_:
+
+Strukturieren Sie die Seite gemäß den Empfehlungen[^3] .
+
+_Navigationsleiste_:
+
+Verwenden Sie eine Navigationsleiste, um die Navigation zwischen den HTML-Dokumenten zu steuern[^4].
+
+_Fonts_:
+
+Verwenden Sie andere Schriftarten, um Ihre Seite ansprechend zu gestalten[^5][^6].
+
+_Shadows_:
+
+Hier lernen Sie Schatteneffekte kennen[^7].
+
+_Intro_:
+
+Hier finden Sie eine kleine Einführung in CSS[^8].
+
+ 
 
 
 
@@ -57,7 +83,7 @@ Sie können sich an folgendem Screenshot orientieren und sich von der Struktur d
 Laden Sie Ihre Antworten bis spätestens 31.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 1 und 2: Ein PDF-Dokument mit Ihrer Lösung
-- Aufgabe 3: Das gesamte HTML-Projekt
+- Aufgabe 3: Das gesamte Projekt (HTML,CSS)
 
 Der Name der Datei ergibt sich aus dem Präfix „SL_WT_SS20“, der Nr. der Studienleistung, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
@@ -67,3 +93,9 @@ Beispiel: **SL_WT_SS20_1_Max_Mustermann.zip**
 
 [^1]: https://docs.google.com/spreadsheets/d/19QDyny7b0CHnpotKPzwxMIK9_59uH4BZWEmqLupVPhQ/edit?usp=sharing
 [^2]: http://saifmohammad.com/WebPages/wikiartemotions.html
+[^3]: https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5/Seitenstrukturierung
+[^4]: https://www.w3schools.com/css/css_navbar.asp
+[^5]: https://www.w3schools.com/css/css_font.asp
+[^6]: https://www.w3schools.com/cssref/css_websafe_fonts.asp
+[^7]: https://www.w3schools.com/css/css3_shadows_box.asp
+[^8]: https://www.w3schools.com/css/css_intro.asp

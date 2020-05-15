@@ -20,15 +20,15 @@ header-includes: |
 
 ---
 
-## Aufgabe 1: Kommunikation im Internet (1 Punkt)
+## Aufgabe 1: Kommunikation im Internet
 
 Beschreiben und skizzieren Sie die grundlegende Funktionsweise der Kommunikation mittels Paketen zwischen einzelnen Punkten in einem Netzwerk (100 bis 150 Wörter). 
 
-## Aufgabe 2: Das Document Object Model (1 Punkt)
+## Aufgabe 2: Das Document Object Model
 
 In der Vorlesung haben Sie das Document Object Model (DOM) kennengelernt.  Erläutern Sie das DOM anhand eines Beispiels (100 bis 150 Wörter).
 
-## Aufgabe 3: Erstellen einer einfachen HTML-Seite (8 Punkte)
+## Aufgabe 3: Erstellen einer einfachen HTML-Seite
 
 In dieser Aufgabe sollen Sie eine einfache HTML-Seite erstellen. Verwenden Sie dafür HTML, um den Inhalt zu definieren und zu strukturieren, und CSS, um die Seiten zu designen.  
 

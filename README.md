@@ -1,6 +1,6 @@
 ---
 title: Studienleistung 1
-author: Martin Kocur
+author: Alexander Bazo und Jakob Fehle
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -21,15 +21,7 @@ header-includes: |
 
 ---
 
-## Aufgabe 1: Kommunikation im Internet
-
-Beschreiben und skizzieren Sie die grundlegende Funktionsweise der Kommunikation mittels Paketen zwischen einzelnen Punkten in einem Netzwerk (100 bis 150 Wörter). 
-
-## Aufgabe 2: Das Document Object Model
-
-In der Vorlesung haben Sie das Document Object Model (DOM) kennengelernt.  Erläutern Sie das DOM anhand eines Beispiels (100 bis 150 Wörter).
-
-## Aufgabe 3: Erstellen einer einfachen HTML-Seite
+## Aufgabe: Erstellen einer einfachen HTML-Seite
 
 In dieser Aufgabe sollen Sie eine einfache HTML-Seite erstellen. Verwenden Sie dafür HTML, um den Inhalt zu definieren und zu strukturieren, und CSS, um die Seiten zu designen.  
 
@@ -93,16 +85,13 @@ Eine kleine Einführung in CSS[^6].\
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 31.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 31.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien sinnvoll und verwenden Sie geeignete Formate.
 
-- Aufgabe 1 und 2: Ein PDF-Dokument mit Ihrer Lösung
-- Aufgabe 3: Das gesamte Projekt (HTML, CSS)
-
-Der Name der Datei ergibt sich aus dem Präfix „SL_WT_SS20“, der Nr. der Studienleistung, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „SL_WT_SS21“, der Nr. der Studienleistung, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **SL_WT_SS20_1_Max_Mustermann.zip**
+Beispiel: **SL_WT_SS21_1_Max_Mustermann.zip**
 
 
 

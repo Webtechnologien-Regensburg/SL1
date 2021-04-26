@@ -85,7 +85,7 @@ Eine kleine Einführung in CSS[^6].\
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 31.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien sinnvoll und verwenden Sie geeignete Formate.
+Laden Sie Ihre Antworten bis spätestens 21.5.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien sinnvoll und verwenden Sie geeignete Formate.
 
 Der Name der Datei ergibt sich aus dem Präfix „SL_WT_SS21“, der Nr. der Studienleistung, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 

@@ -32,8 +32,10 @@ Auf der Webseite [https://www.wikiart.org/](wikiart.org) finden Sie zahlreiche z
 
 Bei der Strukturierung und Gestaltung Ihrer Seite können Sie sich z.B. an diesem Beispiel Orientieren.
 
-![Überblicksseite zur Stilrichtung Impressionismus][example-website-main.png]
-![Detailseite zur Künstlerin Mary Cassat][example-website-sub.png]
+
+![Überblicksseite zur Stilrichtung Impressionismus][./example-website-main.png]
+
+![Detailseite zur Künstlerin Mary Cassat][./example-website-sub.png]
 
 ## Mögliche Erweiterungen
 

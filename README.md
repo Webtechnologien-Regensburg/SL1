@@ -12,11 +12,11 @@ header-includes: |
     \pagestyle{fancy}
     \fancyhf{}
     \rhead{Webtechnologien}
-    \lhead{HTML & CSS}
+    \lhead{Studienleistung-01}
     \fancypagestyle{plain}{
       \fancyhf{}
       \rhead{Webtechnologien}
-      \lhead{HTML & CSS}}}
+      \lhead{Studienleistung-01}}}
 
 
 ---

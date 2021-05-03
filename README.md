@@ -30,7 +30,7 @@ Auf der Webseite [https://www.wikiart.org/](wikiart.org) (https://www.wikiart.or
 - Zu den übrigen Künstlern und Künstlerinnen verlinken Sie in der Liste die jeweiligen Artikel der Wikipedia
 - Auf den Unterseiten präsentieren Sie die wichtigsten biographischen Informationen sowie eine Auswahl aus mindestens fünf wichtigen Werken zu denen neben dem Werk als Bild (`img`-Tag) auch Informationen zum Titel, Entstehungsjahr und Medium aufgeführt sind
 
-Bei der Strukturierung und Gestaltung Ihrer Seite können Sie sich z.B. an diesem Beispiel Orientieren.
+Bei der Strukturierung und Gestaltung Ihrer Seite können Sie sich an den unten stehenden Beispielen (Demo-Video im [GRIPS](https://elearning.uni-regensburg.de/mod/page/view.php?id=1785694)) orientieren. Sie sollten allerdings darauf achten, dass ein **eigener** und **individueller Ansatz** erkennbar ist.
 
 
 ![Überblicksseite zur Stilrichtung Impressionismus](./example-website-main.png)

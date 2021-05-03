@@ -38,6 +38,7 @@ Bei der Strukturierung und Gestaltung Ihrer Seite können Sie sich an den unten 
 
 ![Detailseite zur Künstlerin Mary Cassat](./example-website-sub.png)
 
+\newpage
 ## Mögliche Erweiterungen
 
 Nutzen Sie diese Aufgabe auch, um sich über die geforderten Punkte hinaus mit der Verwendung von HTML & CSS vertraut zu machen. Überlegen Sie sich z.B., wie Sie die (farbliche) Gestaltung der Seite an das inhaltliche Thema anpassen können. Nutzen Sie die Möglichkeiten zur typographischen Gestaltung der angezeigten Texte aus. Verwenden Sie im CSS auch *state*-Selektoren, um z.B. Elemente beim *hovern* hervorzuheben, um die Nutzer und Nutzerinnen auf Interaktionsmöglichkeiten hinzuweisen.

@@ -32,8 +32,6 @@ Auf der Webseite [https://www.wikiart.org/](wikiart.org) (https://www.wikiart.or
 
 Bei der Strukturierung und Gestaltung Ihrer Seite können Sie sich an den unten stehenden Beispielen (Demo-Video im [GRIPS](https://elearning.uni-regensburg.de/mod/page/view.php?id=1785694)) orientieren. Sie sollten allerdings darauf achten, dass ein **eigener** und **individueller Ansatz** erkennbar ist.
 
-\newpage
-
 ![Überblicksseite zur Stilrichtung Impressionismus](./example-website-main.png)
 
 ![Detailseite zur Künstlerin Mary Cassat](./example-website-sub.png)

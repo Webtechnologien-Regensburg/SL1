@@ -23,7 +23,7 @@ header-includes: |
 
 # Eine erste Webseite mit HTML & CSS
 
-Auf der Webseite [https://www.wikiart.org/](wikiart.org) finden Sie zahlreiche Kunstwerke unterschiedlicher Epochen und Stilrichtungen. Die Seite bietet neben vielen lizenzfrei nutzbaren Abbildungen auch biographische Informationen zu den jeweiligen Künstlern und Künstlerinnen. Entwerfen Sie auf Basis dieser Inhalte eine Webseite, mit der Sie eine der Stilrichtung und deren bedeutendsten Vertreter vorstellen. **Suchen Sie sich dazu eine Richtung (z.B. den *Impressionismus*) aus, und erstellen Sie mit Hilfe von HTML und CSS eine Webseite, die die folgenden Anforderungen erfüllt:**
+Auf der Webseite [https://www.wikiart.org/](https://wikiart.org) finden Sie zahlreiche Kunstwerke unterschiedlicher Epochen und Stilrichtungen. Die Seite bietet neben vielen lizenzfrei nutzbaren Abbildungen auch biographische Informationen zu den jeweiligen Künstlern und Künstlerinnen. Entwerfen Sie auf Basis dieser Inhalte eine Webseite, mit der Sie eine der Stilrichtung und deren bedeutendsten Vertreter vorstellen. **Suchen Sie sich dazu eine Richtung (z.B. den *Impressionismus*) aus, und erstellen Sie mit Hilfe von HTML und CSS eine Webseite, die die folgenden Anforderungen erfüllt:**
 
 - Auf einer Startseite präsentieren Sie **allgemeine Informationen zur Stilrichtungen** sowie eine **Liste bedeutender Vertreter und Vertreterinnen**
 - Für vier besonders wichtige Künstler oder Künstlerinnen erstellen Sie separate Unterseiten, die aus den Listeneinträgen heraus verlinkt sind

@@ -23,10 +23,10 @@ header-includes: |
 
 # Eine erste Webseite mit HTML & CSS
 
-Auf der Webseite [https://www.wikiart.org/](wikiart.org) (https://www.wikiart.org/) finden Sie zahlreiche zahlreiche Kunstwerke unterschiedlicher Epochen und Stilrichtungen. Die Seite bietet neben vielen lizenzfrei nutzbaren Abbildungen auch biographische Informationen zu den jeweiligen Künstlern und Künstlerinnen. Entwerfen Sie auf Basis dieser Inhalte eine Webseite, mit der Sie eine der Stilrichtung und deren bedeutendsten Vertreter vorstellen. **Suchen Sie sich dazu eine Richtung (z.B. den *Impressionismus*) aus, und erstellen Sie mit Hilfe von HTML und CSS eine Webseite, die die folgenden Anforderungen erfüllt:**
+Auf der Webseite [https://www.wikiart.org/](wikiart.org) (https://www.wikiart.org/) finden Sie zahlreiche Kunstwerke unterschiedlicher Epochen und Stilrichtungen. Die Seite bietet neben vielen lizenzfrei nutzbaren Abbildungen auch biographische Informationen zu den jeweiligen Künstlern und Künstlerinnen. Entwerfen Sie auf Basis dieser Inhalte eine Webseite, mit der Sie eine der Stilrichtung und deren bedeutendsten Vertreter vorstellen. **Suchen Sie sich dazu eine Richtung (z.B. den *Impressionismus*) aus, und erstellen Sie mit Hilfe von HTML und CSS eine Webseite, die die folgenden Anforderungen erfüllt:**
 
 - Auf einer Startseite präsentieren Sie **allgemeine Informationen zur Stilrichtungen** sowie eine **Liste bedeutender Vertreter und Vertreterinnen**
-- Für vier besonders wichtige Künstler oder Künstlerinnen erstellen Sie separate Unterseite, die aus den Listeneinträgen heraus verlinkt sind
+- Für vier besonders wichtige Künstler oder Künstlerinnen erstellen Sie separate Unterseiten, die aus den Listeneinträgen heraus verlinkt sind
 - Zu den übrigen Künstlern und Künstlerinnen verlinken Sie in der Liste die jeweiligen Artikel der Wikipedia
 - Auf den Unterseiten präsentieren Sie die wichtigsten biographischen Informationen sowie eine Auswahl aus mindestens fünf wichtigen Werken zu denen neben dem Werk als Bild (`img`-Tag) auch Informationen zum Titel, Entstehungsjahr und Medium aufgeführt sind
 - Nutzen Sie die Ihnen bekannten Werkzeuge, um die Seite möglichst barrierefrei zu gestalten: Verwenden Sie passende, semantische *Tags* und ergänzen Sie Elementattribute wie z.B. das `alt`-Attribut um Beschreibungen zu den Bildern beizufügen
